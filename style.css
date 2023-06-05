@@ -4,3 +4,6 @@ html, body{
     text-align: center;
 }
 
+.row img{
+    max-height: 200px;
+}
